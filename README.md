@@ -18,5 +18,5 @@ Interactive Excel dashboard analyzing customer satisfaction, shopping behavior, 
 - supermarket_dashboard.xlsx
 
 ## 📸 Dashboard Preview
-![Dashboard](<img width="473" height="496" alt="sales_dashboard_image" src="https://github.com/user-attachments/assets/981a89c8-6319-4cb5-a0dd-4a279d55e23e" />
+![Dashboard](<img width="473" height="496" alt="sales_dashboard_image" src="https://github.com/Ashik-Amal/supermarket-dashboard/blob/main/sales_dashboard_image.png" />
 )
