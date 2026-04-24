@@ -1,5 +1,6 @@
 # 🛒 Supermarket Customer Dashboard
-
+## 📸 Dashboard Preview
+![Dashboard](https://raw.githubusercontent.com/Ashik-Amal/supermarket-dashboard/main/sales_dashboard_image.png)
 ## 📊 Overview
 Interactive Excel dashboard analyzing customer satisfaction, shopping behavior, and store performance.
 
@@ -17,5 +18,4 @@ Interactive Excel dashboard analyzing customer satisfaction, shopping behavior, 
 ## 📁 Files
 - supermarket_dashboard.xlsx
 
-## 📸 Dashboard Preview
-![Dashboard](https://raw.githubusercontent.com/Ashik-Amal/supermarket-dashboard/main/sales_dashboard_image.png)
+
